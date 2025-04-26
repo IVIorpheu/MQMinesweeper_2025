@@ -31,11 +31,13 @@ Minesweeper is not just an ordinary puzzle game; it is an exciting journey into 
 I thank you in advance for your attention and support. And I hope you enjoy this game and that this game can play its small role in interacting with the C++ Builder and Delphi programming community and promote more communication and exchange of ideas in the RAD Studio programming community.
 
 
-
+==============================================================================================================
 This is my wallet address and if you wish, encourage me to continue on this path with your financial support.
-BTC (Bitcoin) Address
-bc1qgskagr8hg0qwg0z5t2kqsu97p8csm64em9jjxl
 
+BTC (Bitcoin) Address
+
+bc1qgskagr8hg0qwg0z5t2kqsu97p8csm64em9jjxl
+==============================================================================================================
 
 Below, I would like to draw your attention to some of the game's features and explain some technical points about playing the game:
 

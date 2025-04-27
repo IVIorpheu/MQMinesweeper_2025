@@ -65,3 +65,9 @@ https://github.com/user-attachments/assets/92d5a9cd-073c-45b0-aacd-8893643e1ecd
 
 https://github.com/user-attachments/assets/dbd214c7-7867-41ac-9d14-c1b4530d8709
 
+
+
+- Play the game with your favorite color theme. Ability to choose different skins with various color schemes from within the menu
+
+https://github.com/user-attachments/assets/f678a054-2ab2-407d-8f57-824067842d56
+

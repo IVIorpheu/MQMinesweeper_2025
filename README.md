@@ -4,7 +4,7 @@ I developed this game with C++Builder for the Minesweeper Programming Challenge.
 
 ![MQMinesweeper_2025_Screen_001](https://github.com/user-attachments/assets/7a0697a9-4d6e-4266-b547-d909814c37cb)
 
-Minesweeper is an exciting and exciting experience in the world of puzzle games that defines unique and new features.
+MQMinesweeper_2025 is an exciting and exciting experience in the world of puzzle games that defines unique and new features.
 
 The variety in gameplay is one of the strengths of this game. Players can choose from several different modes and get a different experience each time. This variety not only increases the appeal of the game, but also ensures that players face new challenges each time and prevents the game from becoming repetitive.
 

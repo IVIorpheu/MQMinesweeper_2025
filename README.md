@@ -71,3 +71,13 @@ https://github.com/user-attachments/assets/dbd214c7-7867-41ac-9d14-c1b4530d8709
 
 https://github.com/user-attachments/assets/f678a054-2ab2-407d-8f57-824067842d56
 
+
+
+- To export your own customized polygons into the game, you can use 3dsmax software and the script in the Source\minswp\minswp_3dsmaxscript folder in the source code from the Editable_Poly object
+Save a MinsweeperPolyMesh file with the MSPM extension and load it into the game.
+Also, I myself try to put more designs in the PolyMesh source folder over time. Like the hexagonal design I recently added
+(Note that the object in 3dsmax software must be located in the 0.0 to 1.0 area of ​​the xy coordinate plane to be displayed correctly in the game viewport)
+
+![MQMinesweeper_2025_Screen_006](https://github.com/user-attachments/assets/83f65cfb-9b14-4e1f-91e7-6ecb8e77c452)
+
+

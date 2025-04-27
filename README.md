@@ -48,3 +48,20 @@ bc1qgskagr8hg0qwg0z5t2kqsu97p8csm64em9jjxl
 Below, I would like to draw your attention to some of the game's features and explain some technical points about playing the game:
 
 
+
+- How to select a desired geometry from the menu or load an external file in MSPM format
+ 
+https://github.com/user-attachments/assets/67e4665a-6046-448e-acf5-caa36d03ad6d
+
+
+
+- You can view the neighborhoods by pressing the mouse wheel key or pressing the CONTROL key and moving over the cells. Due to the variation in the number of sides of polygons and consequently the variation in the number of neighborhoods, such an auxiliary tool seems necessary. This tool helps you to correctly identify the neighborhoods.
+
+https://github.com/user-attachments/assets/92d5a9cd-073c-45b0-aacd-8893643e1ecd
+
+
+
+- An interesting and innovative feature added to this version of the game is the life feature. You are allowed to make a mistake up to three times without failing and ending the game, and each time you lose one of your lives, until the fourth time the final explosion occurs, resulting in a loss.
+
+https://github.com/user-attachments/assets/dbd214c7-7867-41ac-9d14-c1b4530d8709
+

